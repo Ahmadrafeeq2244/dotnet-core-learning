@@ -20,7 +20,6 @@ namespace my_books.Data
                         DateRead =Convert.ToDateTime("2021-01-01"),
                         Rate = 250,
                         Genre = "yes",
-                        Author = "no",
                         CoverUrl = "yes.com",
                         DateAdded = Convert.ToDateTime("2020-01-01"),
                     });
